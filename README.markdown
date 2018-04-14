@@ -1,7 +1,7 @@
 Neat Status Line
 ===
 
-[![STATEMENT: The Original Document](https://github.com/maciakl/vim-neatstatus)]
+![STATEMENT: The Original Document](https://github.com/maciakl/vim-neatstatus)
 
 [![endorse](https://api.coderwall.com/luke/endorsecount.png)](https://coderwall.com/luke)
 
