@@ -1,6 +1,8 @@
 Neat Status Line
 ===
 
+[![STATEMENT: The Original Document] (https://github.com/maciakl/vim-neatstatus)]
+
 [![endorse](https://api.coderwall.com/luke/endorsecount.png)](https://coderwall.com/luke)
 
 Yet another status line plugin. The aim of Neat Status is to provide neat, and 
